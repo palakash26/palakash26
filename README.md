@@ -1,12 +1,11 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pedro+Muniz!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=👋+Hi+There!;+I'm+Akash+👋!;" />
 </h1>
 
-![logo](https://github.com/Akashdom/Akashdom/blob/main/Purple%20Orange%20Illustration%20Content%20Creator%20Profile%20Video.gif)<hr>
-<p align="center"><img align="center" src="https://www.bing.com/th/id/OGC.ad5652231778cbcd3cf484125dfae372?pid=1.7&rurl=http%3a%2f%2fcdn.lowgif.com%2ffull%2fd19b8b10cebca8ae-.gif&ehk=VxIIDv923HUaUZjD63%2bbPjToAvCOlQ8XFDkcM66s9w4%3d" width="90" height="80"> 
+<p align="center"><img align="center" src="https://github.com/Akashdom/Akashdom/blob/main/Hey%20Hello%20Sticker%20-%20Hey%20Hello%20Cute%20-%20Discover%20%26%20Share%20GIFs.gif" width="120" height="120"> 
 <h1 align="center">Hi 👋, I'm Akash pal</h1></p>
 <h2 align="center"><img align="center"  width="57" height="50" src="https://www.bing.com/th/id/OGC.0fc85da32d0e51e12880dd702b77a299?pid=1.7&rurl=http%3a%2f%2f25.media.tumblr.com%2ftumblr_mdk6s9kKAm1r7i5f3o1_500.gif&ehk=rotl1dhUXRRpMQmB7YJ8H%2f5lXVfQTiYZ%2boN7lgyEbNY%3d">I am Second year student of the university<img align="center"  width="57" height="50" src="https://www.bing.com/th/id/OGC.0fc85da32d0e51e12880dd702b77a299?pid=1.7&rurl=http%3a%2f%2f25.media.tumblr.com%2ftumblr_mdk6s9kKAm1r7i5f3o1_500.gif&ehk=rotl1dhUXRRpMQmB7YJ8H%2f5lXVfQTiYZ%2boN7lgyEbNY%3d"></h2>
-<hr>
+
 
 
 
